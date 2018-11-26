@@ -16,5 +16,3 @@ date_to_season <- function(date){
 # output
  return(season)
 }
-
-
