@@ -12,3 +12,4 @@ URL: http://github.com/nickgood/season
 BugReports: http://github.com/nickgood/season/issues
 Imports:
     lubridate (>= 1.7.1)
+RoxygenNote: 6.0.1
