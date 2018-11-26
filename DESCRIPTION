@@ -1,12 +1,11 @@
 Package: season
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Date to Season
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Nick Good
+Maintainer: Nick Good <n.good@colostate.edu>
+Description: Converts a date to a season
+License: No licence
 Encoding: UTF-8
 LazyData: true
 URL: http://github.com/nickgood/season
