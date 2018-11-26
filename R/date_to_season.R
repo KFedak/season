@@ -1,6 +1,9 @@
-# date to season!
-#
-# this function converts a date to a season
+#' Add together two numbers.
+#' @param date an object lubridate recongnizes as a date
+#' @return The season the date is in.
+#' @examples
+#' date_to_season("2018-05-11")
+
 date_to_season <- function(date){
 # empty output factor
   season <- factor(levels = c("spring", "summer", "fall", "winter"))
