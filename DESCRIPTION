@@ -10,3 +10,10 @@ Encoding: UTF-8
 LazyData: true
 URL: http://github.com/nickgood/season
 BugReports: http://github.com/nickgood/season/issues
+Imports:
+    dplyr (>= 0.7.4),
+    tidyr (>= 0.7.2),
+    ggplot2 (>= 2.2.1),
+    lubridate (>= 1.7.1),
+    readr (>= 1.1.1),
+    purrr (>= 0.2.4)
